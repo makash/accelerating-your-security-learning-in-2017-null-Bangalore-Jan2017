@@ -167,7 +167,7 @@ We break down the topic we want to learn in two main parts
 
 # How will I remember everything?
 - Use markdown for documentation 
-- Use raneto for personal website 
+- Use raneto / mkdocs for personal website 
 
 
 ## Setup Raneto
@@ -185,9 +185,28 @@ We break down the topic we want to learn in two main parts
 5. Browse to http://localhost:3000
 
 
-# Tip
-> Add the entire directory of Raneto under version control and set a remote repository to a private bitbucket repository
 
+## (Alterantive) Setup and Configure Mkdocs
+1. install mkdocs
+`pip install mkdocs`
+2. configure mkdocs
+`mkdocs new my-project`
+KnowledgeBase Location `my-project\docs`
+3. Serving the content
+```
+cd my-project
+mkdocs serve
+```
+
+4. Browse at http://localhost:8000
+
+Change in markdown file results in automatic rebuild of the knowledgebase and refresh of the page.
+
+[More details and Advance setup information here](http://www.mkdocs.org/)
+
+
+# Tip
+> Add the entire directory of Raneto under version control and set a remote repository to a private bitbucket / gitlab repository
 
 # What about my research? 
 Use Google Keep
