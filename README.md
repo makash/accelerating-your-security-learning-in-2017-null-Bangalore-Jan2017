@@ -1,4 +1,8 @@
 # Accelerating Your Security Learning in 2017
+
+## Get the google document here
+[Accelerating Your Security Learning in 2017 Google Sheet](https://docs.google.com/spreadsheets/d/14x5_TwL9-kNshxEE9w8BrlY40odzOOebuwrkKGnOzr0/edit?usp=sharing)
+
 A new year is always a good time to take stock, see where we are, make some resolutions and think about what is next for us. Since this is going to be the very first meet for null Bangalore in 2017 what would be useful is to look at how can all of us as community members and the community come together to plan a structured way to accelerate our security learning. 
 
 This isn't strictly a technical talk. But I believe this is a really important one. We all would like to learn new things in security and always think about how to improve. The work that we do in this talk and workshop will allow us to do this in a manner that is
