@@ -1,8 +1,8 @@
 # IOT Workbench
 
-[x] - Make this list
-[ ] - IPV6
-[ ] - hardware
+[x] Make this list
+[ ] IPV6
+[ ] hardware
 [ ] - knowledge of communication protocols
 [ ] - computer architecture
 [ ] - firmware reverse engineering
