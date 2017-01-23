@@ -1,7 +1,6 @@
 # IOT Workbench
 
-- [x
-- ] Make this list
+- [x] Make this list
 - [ ] IPV6
 - [ ] hardware
 - [ ] knowledge of communication protocols
